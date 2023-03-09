@@ -1,0 +1,28 @@
+.d1 {
+    width: 80%;
+    margin:15 px;
+    border:  solid rgb(241, 237, 237) ;
+    background-color: rgb(255, 255, 255);
+}
+
+.d2 {
+    color: red;
+    width: 80%;
+    margin:15 px;
+    border:  dotted rgb(226, 25, 25) ;
+    background-color: rgb(255, 255, 255);
+}
+.d2a {
+ width: 95%;
+    margin: auto;
+   
+    border:  dashed rgb(244, 35, 35) ;
+    background-color: rgb(255, 255, 255);
+}
+
+.d3 {
+
+    width: 80%;
+    border:  solid rgb(230, 217, 217) ;
+    background-color: rgb(255, 255, 255);
+}
